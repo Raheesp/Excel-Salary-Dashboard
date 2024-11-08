@@ -1,5 +1,7 @@
 # Excel-Salary-Dashboard
 
+![excel salary dashboard](https://github.com/user-attachments/assets/835cae44-ec45-4f9a-a17c-9263a90f9b93)
+
 A dynamic and interactive **Excel dashboard** designed to analyze salary data across various job titles, countries, and platforms. This tool provides insights into salary distributions, median salaries, and job market trends by comparing data from popular platforms like **LinkedIn**, **Indeed**, and others.
 
 ## Features
